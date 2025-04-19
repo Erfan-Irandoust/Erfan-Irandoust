@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Erfan Irandoust</h1>
+<h3 align="center">A Passionate Front-End Developer</h3>
 
-<!--
-**Erfan-Irandoust/Erfan-Irandoust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Frontend+Developer;JavaScript+%2F+TypeScript+Lover;Always+Learning+Something+New&center=true&width=500&height=45" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux,zustand,materialui,framer,threejs" />
+</p>
+
+---
+
+### 🛠 Libraries & Tools:
+- **UI**: Tailwind CSS, Bootstrap, Material UI, Aceternity UI
+- **State Management**: Redux, Zustand
+- **Animation**: Framer Motion, GSAP
+- **3D**: Three.js
+- **Frameworks**: React.js, Next.js
+
+---
+
+<p align="center">✨ Built with love and a lot of coffee ✨</p>
