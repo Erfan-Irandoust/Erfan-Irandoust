@@ -10,7 +10,9 @@
 ### 🚀 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux,zustand,materialui,framer,threejs,nodejs" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,nodejs&size=64&spacing=10" 
+  />
 </p>
 
 ---
