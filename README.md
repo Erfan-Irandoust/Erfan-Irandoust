@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Frontend+Developer;JavaScript+%2F+TypeScript+Lover;Always+Learning+Something+New&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Frontend+Developer;JavaScript+%2F+TypeScript+Lover;Always+Learning+Something+New&center=true&width=600&height=66" />
 </p>
 
 ---
